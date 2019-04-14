@@ -1,4 +1,4 @@
-package hello;
+package spring.simple.web;
 
 /*
  * A Controller
